@@ -1,0 +1,22 @@
+{
+    "vqvae_config": {
+        "model_name": "vqvae",
+        "model_save_name": "vqvae",
+        "pretrained": false,
+        "learning_rate": 1e-3,
+        "num_training_updates": 120000,
+        "block_hidden_size": 128,
+        "num_residual_layers": 2,
+        "res_hidden_size": 64,
+        "embedding_dim": 64,
+        "num_embeddings": 1024,
+        "commitment_cost": 0.25,
+        "compression_factor": 4,
+        "dataset": "all"
+    },
+    "comet_config": {
+        "api_key": "add yours here",
+        "project_name": "add yours here",
+        "workspace": "add yours here"
+    }
+}
