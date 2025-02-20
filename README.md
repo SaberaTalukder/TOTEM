@@ -39,7 +39,8 @@ process_zero_shot_data/scripts/neuro2.sh or neuro5.sh or saugeen.sh or sunspot.s
 ```
 
 ### 4. Model Zoo (a.k.a Pretrained Models) 🦑🐯🐊🐳
-Coming Soon!
+Find the pretrained generalist tokenizers [here](https://drive.google.com/drive/u/0/folders/1TSwPHDMAhcpe2AKl4xsVbUUmAvd_Tp-Z).
+Read some notes on usage [here](https://docs.google.com/document/d/1GbqYFBsTZWKoXu2yFs49sP9X311q8BsnjNsfHYYN_Wg/edit?tab=t.0).
 
 
 ## Cite If You ❤️ TOTEM
