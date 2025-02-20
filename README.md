@@ -46,12 +46,13 @@ Read some notes on usage [here](https://docs.google.com/document/d/1GbqYFBsTZWKo
 ## Cite If You ❤️ TOTEM
 
 ```
-@misc{talukder2024totem,
-      title={TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis}, 
-      author={Sabera Talukder and Yisong Yue and Georgia Gkioxari},
-      year={2024},
-      eprint={2402.16412},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{
+talukder2024totem,
+title={{TOTEM}: {TO}kenized Time Series {EM}beddings for General Time Series Analysis},
+author={Sabera J Talukder and Yisong Yue and Georgia Gkioxari},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2024},
+url={https://openreview.net/forum?id=QlTLkH6xRC},
+note={}
 }
-
